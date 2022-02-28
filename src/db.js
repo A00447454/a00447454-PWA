@@ -4,7 +4,7 @@ export const db = new Dexie('Task');
 
 db.version(1).stores({
     task: `
-        id++,
+        ++id,
         name,
         date,
         assign`,

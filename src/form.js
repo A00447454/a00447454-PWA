@@ -32,7 +32,7 @@ function Form() {
                 <label>Due date</label>
                 <input
                     ref={dateT}
-                    type="text"
+                    type= "date"
                     id="date"
                     value={date}
                     onChange={(e) => setDate(e.target.value)}
