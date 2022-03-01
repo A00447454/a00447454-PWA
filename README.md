@@ -5,9 +5,9 @@ Sunaritha Karanth
 
 ## Assignment Task:
 
-Built a Web Application 
-Stored the data in IndexedB
-Made it PWA
+* Built a Web Application 
+* Stored the data in IndexedB
+* Made it PWA
 
 ## Build the application:
 
